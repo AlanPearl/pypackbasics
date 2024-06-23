@@ -14,3 +14,6 @@ pip install .
 - From an outside directory, run `python -m pypackbasics.otherpack --help` to run the `__main__.py` script
 - From the root directory of this project, run the single test case with `python -m unittest`
 - In `tests/test_basic.py`, write another test case and make sure it passes
+
+# Extensive resource for best practices
+- https://pythonpackaging.info/pdf/code-packaging-rev9214085.pdf
