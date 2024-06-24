@@ -16,4 +16,4 @@ pip install .
 - In `tests/test_basic.py`, write another test case and make sure it passes
 
 # Extensive resource for best practices
-- https://pythonpackaging.info/pdf/code-packaging-rev9214085.pdf
+- https://pythonpackaging.info
